@@ -18,7 +18,7 @@ What we'll cover:
 
 ## The Mindset
 
-**Why?**
+Why?
 
 * Prevent getting hacked
 * Prevent getting profiled
@@ -30,7 +30,7 @@ What we'll cover:
 
 ## The Mindset
 
-**Requirements/Preferences**
+Requirements/Preferences
 
 * Open-source
 * Cross-platform
@@ -50,8 +50,23 @@ What we'll cover:
 * Firefox
   * uBlock Origin
   * Multi-account containers
-* VPNs
-  * Mullvad
+
+---
+
+## The Tools
+
+VPNs (Virtual Private Network)
+
+* What?
+  * _what is a VPN?_
+* Why?
+  * Prevent network-level snooping
+  * Hide your identity
+  * Reduce fingerprinting surface
+* David recommends: [Mullvad](#mullvad)
+
+---
+
 * CalyxOS
 * FaceID
 * Signal
