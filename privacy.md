@@ -5,17 +5,35 @@ Dev Team Meeting, 3/15/2022
 
 ---
 
+# Digital Privacy & Security
+
+What we'll cover:
+
+* The Mindset
+* The Tools
+* Further Reading
+* Questions
+
+---
+
 ## The Mindset
 
-* Requirements
-  * Open-source
-  * Cross-platform
-* Why?
-  * Prevent getting hacked
-  * Prevent getting profiled
-  * Prevent Setting arrested
-  * Fuck big companies
-  * It's cool & fun
+**Why?**
+
+* Prevent getting hacked
+* Prevent getting profiled
+* Prevent Setting arrested
+* F--k big companies
+* It's cool & fun
+
+---
+
+## The Mindset
+
+**Requirements/Preferences**
+
+* Open-source
+* Cross-platform
 
 ---
 
