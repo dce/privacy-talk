@@ -1,0 +1,6 @@
+#!/bin/sh
+
+bin/build
+
+fswatch -0 -e .git -e index.html . \
+  | xargs -0 -n 1 bin/build
