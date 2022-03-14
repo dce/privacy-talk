@@ -4,6 +4,8 @@
 
 require 'json'
 
+puts "(#{Time.now}) Building ..."
+
 TITLE_PLACEHOLDER = '<!-- title -->'
 CONTENT_PLACEHOLDER = '<!-- content -->'
 
