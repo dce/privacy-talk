@@ -18,12 +18,21 @@ What we'll cover:
 
 ## The Mindset
 
+To start, some background on  
+my reasoning, preferences,  
+biases, and general worldview.
+
+---
+
+## The Mindset
+
 Why?
 
 * Prevent getting hacked
 * Prevent getting profiled
 * Prevent Setting arrested
 * F--k big companies
+  * And specifically surveillance capitalism
 * It's cool & fun
 
 ---
@@ -37,25 +46,73 @@ Requirements/Preferences
 
 ---
 
-## The Tools
+## The Mindset
 
-* Password Manager
-  * Bitwarden
-  * Explain why not 1P
-* OTP
-  * Raivo
-  * Android thing
-* Email
-  * Fastmail
-* Firefox
-  * uBlock Origin
-  * Multi-account containers
+* Privacy/security vs. convenience
+* Other people (the worst)
 
 ---
 
 ## The Tools
 
-VPNs (Virtual Private Network)
+Next, we'll cover some tools  
+you  can download today to  
+enhance your  digital privacy  
+and security.
+
+These are roughly in  
+descending  order if  
+importance. Most are free,  
+and I'll call out where they  
+aren't.
+
+---
+
+## The Tools: Password Manager
+
+* Why?
+* David recommends: [Bitwarden][]
+* Why not 1Password?
+
+---
+
+## The Tools: TOTP (Time-based One Time Password)
+
+* What?
+* Why?
+  * 2FA
+  * SMS-based 2FA is hackable _(but still better than nothing)_
+* David recommends:
+  * iOS: [Raivo][]
+  * Android: [Aegis][]
+
+---
+
+## The Tools: Email
+
+* Why?
+* David recommends: [Fastmail][2] ($5/mo., $50/yr.)
+
+[2]: #
+---
+
+## The Tools: Firefox
+
+* Why?
+* Key plugins:
+  * uBlock Origin
+  * Multi-account containers
+
+---
+
+## The Tools: DuckDuckGo
+
+* What?
+* Why?
+
+---
+
+## The Tools: VPN (Virtual Private Network)
 
 * What?
   * _what is a VPN?_
@@ -63,14 +120,23 @@ VPNs (Virtual Private Network)
   * Prevent network-level snooping
   * Hide your identity
   * Reduce fingerprinting surface
-* David recommends: [Mullvad](#mullvad)
+* David recommends: [Mullvad][1] (€5/mo.)
+
+[1]: https://mullvad.net/en/
 
 ---
 
-* CalyxOS
-* FaceID
-* Signal
-* DuckDuckGo
+## The Tools: Signal
+
+* What?
+* Why?
+
+---
+
+## The Tools: CalyxOS
+
+* What?
+* Why?
 
 ---
 
