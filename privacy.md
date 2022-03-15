@@ -26,11 +26,11 @@ biases, and general worldview.
 
 ## The Mindset
 
-Why?
+Why care about digital privacy and security?
 
 * Prevent getting hacked
 * Prevent getting profiled
-* Prevent Setting arrested
+* Prevent getting arrested
 * F--k big companies
   * And specifically surveillance capitalism
 * It's cool & fun
@@ -71,6 +71,9 @@ aren't.
 ## The Tools: Password Manager
 
 * Why?
+  * Using unique, hard-to-guess passwords
+    for all of your accounts is the #1 thing
+    you can do to increase your internet security.
 * David recommends: [Bitwarden][1]
 * Why not 1Password?
 
@@ -82,12 +85,13 @@ aren't.
 
 * What?
 * Why?
-  * 2FA
+  * 2FA (something you know + something you have)
   * SMS-based 2FA is hackable  
     _(but still better than nothing)_
 * David recommends:
-  * iOS: [Raivo OTP][2] ([app store][3])
+  * iOS: [Raivo OTP][2] ([App Store][3])
   * Android: [Aegis][4] ([F-Droid][5])
+* Why I don't use Bitwarden TOTP
 
 [2]: https://github.com/raivo-otp/
 [3]: https://apps.apple.com/us/app/raivo-otp/id1459042137
@@ -99,29 +103,47 @@ aren't.
 ## The Tools: Email
 
 * Why?
+  * Your email is the skeleton key to all of your other accounts _(i.e. it is important)_
+  * Google reads your GMail
+  * And they can cancel your account at any time
 * David recommends: [Fastmail][6] ($5/mo., $50/yr.)
+  * Plus the cost of a custom domain if desired
 
 [6]: https://www.fastmail.com/
+
 ---
 
-## The Tools: [Firefox][7]
+## The Tools: Ad/Tracker Blocking
 
 * Why?
-* Key plugins:
-  * [uBlock Origin][8] ([plugin][9])
-  * [Multi-account containers][10]
+  * Prevent being profiled
+  * The internet is a 🗑🔥 without one
+* David recommends:
+  * Desktop: [Firefox][7] with [uBlock Origin][8]
+  * iOS: [Roadblock][9]
+  * Android: [DuckDuckGo Privacy Browser][16]
 
 [7]: https://www.mozilla.org/en-US/firefox/new/
-[8]: https://ublockorigin.com/
-[9]: https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/
-[10]: https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/
+[8]: https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/
+[9]: https://apps.apple.com/us/app/roadblock-content-blocker/id1037709284
+[16]: https://f-droid.org/en/packages/com.duckduckgo.mobile.android/
 
 ---
 
-## The Tools: [DuckDuckGo][11]
+## The Tools: More Firefox Fun
+
+* Multi-Account Containers
+* LocalCDN
+* ClearURLs
+
+---
+
+## The Tools: Search
 
 * What?
 * Why?
+  * Plus Google results suck now
+* David recommends: [DuckDuckGo][11]
 
 [11]: https://duckduckgo.com/
 ---
@@ -145,20 +167,36 @@ aren't.
 * What?
 * Why?
 * David recommends: [Signal][13]
+  * Apple Messages is fine too 
+    (if all of your contacts are on iOS
+  * WhatsApp is also OK  
+    (but has that Zuck stink on it)
+  * Really anything but SMS pls
 
 [13]: https://www.signal.org/
 
 ---
 
-## The Tools: [CalyxOS][14]
+## The Tools: Open-Source Operating Systems
 
 * What?
-  * _"CalyxOS is an Android mobile operating  
-    system that puts privacy and security  
-    into the hands of everyday users."_
 * Why?
+* David recommends:
+  * [Manjaro][17] (or most Linuxes really)
+  * [CalyxOS][14]
 
 [14]: https://calyxos.org/
+[17]: https://manjaro.org/
+
+---
+
+## The Tools: Other Things I Haven't Tried
+
+* [YubiKey][y]
+* [Secretive][x]
+
+[y]: https://www.yubico.com/
+[x]: https://github.com/maxgoedjen/secretive
 
 ---
 
