@@ -11,7 +11,7 @@ What we'll cover:
 
 * The Mindset
 * The Tools
-* Further Reading
+* Closing Thoughts
 * Questions
 
 ---
@@ -43,13 +43,7 @@ Requirements/Preferences
 
 * Open-source
 * Cross-platform
-
----
-
-## The Mindset
-
-* Privacy/security vs. convenience
-* Other people (the worst)
+* Prefer to pay with my money than my personal information
 
 ---
 
@@ -70,6 +64,8 @@ aren't.
 
 ## The Tools: Password Manager
 
+* What?
+  * An application that generates and stores passwords
 * Why?
   * Using unique, hard-to-guess passwords for all of your accounts is the #1 thing you can do to increase your internet security.
   * A password manager is the best way to achieve this.
@@ -83,8 +79,11 @@ aren't.
 ## The Tools: TOTP (Time-based One Time Password)
 
 * What?
+  * An app that programmatically generates expiring six-digit codes you use to log in
+  * (in addition to a password)
+  * (typically only the first time on a new device)
 * Why?
-  * 2FA (something you know + something you have)
+  * Two-factor auth (something you know + something you have)
   * SMS-based 2FA is hackable  
     _(but still better than nothing)_
 * David recommends:
@@ -101,6 +100,8 @@ aren't.
 
 ## The Tools: Email
 
+* What?
+  * Your email account
 * Why?
   * Your email is the skeleton key to all of your other accounts _(i.e. it is important)_
   * Google can cancel your account at any time
@@ -114,6 +115,8 @@ aren't.
 
 ## The Tools: Ad/Tracker Blocking
 
+* What?
+  * A browser extension that blocks ads and tracking scripts
 * Why?
   * Prevent being profiled
   * The internet is a 🗑🔥 without one
@@ -131,16 +134,23 @@ aren't.
 
 ## The Tools: More Firefox Fun
 
-* Multi-Account Containers
-* LocalCDN
-* ClearURLs
+* [Multi-Account Containers][22]
+* [LocalCDN][23]
+* [ClearURLs][24]
+
+[22]: https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/
+[23]: https://addons.mozilla.org/en-US/firefox/addon/localcdn-fork-of-decentraleyes/
+[24]: https://addons.mozilla.org/en-US/firefox/addon/clearurls/
 
 ---
 
 ## The Tools: Search
 
 * What?
+  * A website you use to find other websites
 * Why?
+  * You send a search engine a lot of data about yourself
+  * So better to pick one that doesn't store that info and use it to serve you ads
   * Plus Google results suck now
 * David recommends: [DuckDuckGo][11]
 
@@ -151,12 +161,15 @@ aren't.
 ## The Tools: VPN (Virtual Private Network)
 
 * What?
-  * _what is a VPN?_
+  * Think of it like a tube
+  * To the local network, all of your web traffic just looks like it's going to the VPN server
+  * To external hosts, your IP is the VPN's
 * Why?
   * Prevent network-level snooping
   * Mask your identity
   * Reduce fingerprinting surface
 * David recommends: [Mullvad][12] (€5/mo.)
+  * (+ a credit card w/o foreign transaction fees)
 
 [12]: https://mullvad.net/en/
 
@@ -165,9 +178,12 @@ aren't.
 ## The Tools: Messaging
 
 * What?
+  * End-to-end (e2e) encrypted messaging app
 * Why?
+  * IDK, I'm a private person
+  * e2e-encrypted apps make your communication less likely to be intercepted by third parties
 * David recommends: [Signal][13]
-  * Apple Messages is fine too 
+  * Apple Messages is fine too  
     (if all of your contacts are on iOS)
   * WhatsApp is also OK  
     (but has that Zuck stink on it)
@@ -180,7 +196,12 @@ aren't.
 ## The Tools: Open-Source Operating Systems
 
 * What?
+  * An operating system not made by Apple, Google, or Microsoft
 * Why?
+  * Auditable
+  * Not typically in the spyware/adware business
+  * Some are made for privacy specifically
+  * Generally made by like-minded folks
 * David recommends:
   * [Manjaro][17] (or most Linuxes really)
   * [CalyxOS][14]
@@ -200,7 +221,16 @@ aren't.
 
 ---
 
-## Further Reading
+## Closing Thoughts
+
+* Privacy/security vs. convenience
+* Other people (the worst)
+
+---
+
+## Closing Thoughts
+
+Further Reading
 
 * [The New Oil][15]
 * [blog.thenewoil.org][21]
