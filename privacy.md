@@ -56,8 +56,8 @@ Requirements/Preferences
 ## The Tools
 
 Next, we'll cover some tools  
-you  can download today to  
-enhance your  digital privacy  
+you can download today to  
+enhance your digital privacy  
 and security.
 
 These are roughly in  
@@ -71,9 +71,8 @@ aren't.
 ## The Tools: Password Manager
 
 * Why?
-  * Using unique, hard-to-guess passwords
-    for all of your accounts is the #1 thing
-    you can do to increase your internet security.
+  * Using unique, hard-to-guess passwords for all of your accounts is the #1 thing you can do to increase your internet security.
+  * A password manager is the best way to achieve this.
 * David recommends: [Bitwarden][1]
 * Why not 1Password?
 
@@ -104,8 +103,8 @@ aren't.
 
 * Why?
   * Your email is the skeleton key to all of your other accounts _(i.e. it is important)_
-  * Google reads your GMail
-  * And they can cancel your account at any time
+  * Google can cancel your account at any time
+  * They also read all your emails
 * David recommends: [Fastmail][6] ($5/mo., $50/yr.)
   * Plus the cost of a custom domain if desired
 
@@ -154,7 +153,7 @@ aren't.
   * _what is a VPN?_
 * Why?
   * Prevent network-level snooping
-  * Hide your identity
+  * Mask your identity
   * Reduce fingerprinting surface
 * David recommends: [Mullvad][12] (€5/mo.)
 
@@ -168,7 +167,7 @@ aren't.
 * Why?
 * David recommends: [Signal][13]
   * Apple Messages is fine too 
-    (if all of your contacts are on iOS
+    (if all of your contacts are on iOS)
   * WhatsApp is also OK  
     (but has that Zuck stink on it)
   * Really anything but SMS pls
@@ -192,19 +191,23 @@ aren't.
 
 ## The Tools: Other Things I Haven't Tried
 
-* [YubiKey][y]
-* [Secretive][x]
+* [YubiKey][18]
+* [Secretive][19]
 
-[y]: https://www.yubico.com/
-[x]: https://github.com/maxgoedjen/secretive
+[18]: https://www.yubico.com/
+[19]: https://github.com/maxgoedjen/secretive
 
 ---
 
 ## Further Reading
 
 * [The New Oil][15]
+* [blog.thenewoil.org][21]
+* [github.com/dce/privacy-talk][20]
 
 [15]: https://thenewoil.org/
+[21]: https://blog.thenewoil.org/
+[20]: https://github.com/dce/privacy-talk
 
 ---
 
