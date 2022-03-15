@@ -5,7 +5,15 @@ Dev Team Meeting, 3/15/2022
 
 ---
 
-# Digital Privacy & Security
+## Digital Privacy & Security
+
+How to keep yourself safe(r)  
+and anonymous(er) as you  
+travel the internet.
+
+---
+
+## Digital Privacy & Security
 
 What we'll cover:
 
