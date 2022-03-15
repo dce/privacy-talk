@@ -83,7 +83,8 @@ aren't.
 * What?
 * Why?
   * 2FA
-  * SMS-based 2FA is hackable _(but still better than nothing)_
+  * SMS-based 2FA is hackable  
+    _(but still better than nothing)_
 * David recommends:
   * iOS: [Raivo OTP][2] ([app store][3])
   * Android: [Aegis][4] ([F-Droid][5])
@@ -152,6 +153,9 @@ aren't.
 ## The Tools: [CalyxOS][14]
 
 * What?
+  * _"CalyxOS is an Android mobile operating  
+    system that puts privacy and security  
+    into the hands of everyday users."_
 * Why?
 
 [14]: https://calyxos.org/
