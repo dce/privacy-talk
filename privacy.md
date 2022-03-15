@@ -71,8 +71,10 @@ aren't.
 ## The Tools: Password Manager
 
 * Why?
-* David recommends: [Bitwarden][]
+* David recommends: [Bitwarden][1]
 * Why not 1Password?
+
+[1]: https://bitwarden.com/
 
 ---
 
@@ -83,33 +85,44 @@ aren't.
   * 2FA
   * SMS-based 2FA is hackable _(but still better than nothing)_
 * David recommends:
-  * iOS: [Raivo][]
-  * Android: [Aegis][]
+  * iOS: [Raivo OTP][2] ([app store][3])
+  * Android: [Aegis][4] ([F-Droid][5])
+
+[2]: https://github.com/raivo-otp/
+[3]: https://apps.apple.com/us/app/raivo-otp/id1459042137
+[4]: https://getaegis.app/
+[5]: https://f-droid.org/en/packages/com.beemdevelopment.aegis/
 
 ---
 
 ## The Tools: Email
 
 * Why?
-* David recommends: [Fastmail][2] ($5/mo., $50/yr.)
+* David recommends: [Fastmail][6] ($5/mo., $50/yr.)
 
-[2]: #
+[6]: https://www.fastmail.com/
 ---
 
-## The Tools: Firefox
+## The Tools: [Firefox][7]
 
 * Why?
 * Key plugins:
-  * uBlock Origin
-  * Multi-account containers
+  * [uBlock Origin][8] ([plugin][9])
+  * [Multi-account containers][10]
+
+[7]: https://www.mozilla.org/en-US/firefox/new/
+[8]: https://ublockorigin.com/
+[9]: https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/
+[10]: https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/
 
 ---
 
-## The Tools: DuckDuckGo
+## The Tools: [DuckDuckGo][11]
 
 * What?
 * Why?
 
+[11]: https://duckduckgo.com/
 ---
 
 ## The Tools: VPN (Virtual Private Network)
@@ -120,29 +133,36 @@ aren't.
   * Prevent network-level snooping
   * Hide your identity
   * Reduce fingerprinting surface
-* David recommends: [Mullvad][1] (€5/mo.)
+* David recommends: [Mullvad][12] (€5/mo.)
 
-[1]: https://mullvad.net/en/
+[12]: https://mullvad.net/en/
 
 ---
 
-## The Tools: Signal
+## The Tools: Messaging
+
+* What?
+* Why?
+* David recommends: [Signal][13]
+
+[13]: https://www.signal.org/
+
+---
+
+## The Tools: [CalyxOS][14]
 
 * What?
 * Why?
 
----
-
-## The Tools: CalyxOS
-
-* What?
-* Why?
+[14]: https://calyxos.org/
 
 ---
 
 ## Further Reading
 
-* The New Oil
+* [The New Oil][15]
+
+[15]: https://thenewoil.org/
 
 ---
 
