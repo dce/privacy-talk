@@ -145,6 +145,7 @@ aren't.
 * David recommends: [DuckDuckGo][11]
 
 [11]: https://duckduckgo.com/
+
 ---
 
 ## The Tools: VPN (Virtual Private Network)
